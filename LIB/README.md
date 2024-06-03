@@ -6,5 +6,5 @@
 각 라이브러리에 symbol, footprint로 저장
 
 ex)
-[라이브러리 이름]/[symbol.kicad_sym]
+[라이브러리 이름]/[symbol.kicad_sym]\n
 [라이브러리 이름]/[footprint.kicad_mod]
